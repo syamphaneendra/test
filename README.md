@@ -4,4 +4,4 @@ test
 
 
 
-Interactive rebase
+Interactive rebasing
