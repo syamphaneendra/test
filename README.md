@@ -4,6 +4,4 @@ test
 
 
 
-Master change
-
-Feature change
+Interactive rebasing
